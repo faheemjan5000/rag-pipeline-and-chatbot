@@ -1,4 +1,6 @@
 # rag-pipeline-and-chatbot
+![Rag-pipeline-workflow](https://github.com/user-attachments/assets/16ad7973-24bc-4166-9c3c-b0d4b5f7caed)
+
 
 This repository contains an automated n8n workflow designed to monitor a specific Google Drive folder for new files (Java tutorial documents), process and embed their contents using Google Gemini, store them in a Pinecone vector database, and make them queryable via a LangChain-powered chat agent.
 
