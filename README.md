@@ -21,7 +21,7 @@ Enable querying the vector store via a chat interface powered by a LangChain AI 
 📂 Google Drive Trigger
 Node: Google Drive Trigger
 
-Function: Monitors a specified folder (13Zf4OpYTGAnv642XKn3yN_fOxj_T1xTJ) for new file creation.
+Function: Monitors a specified folder (xxxxxxxxxxxxxxxxx) for new file creation.
 
 Polling: Every minute.
 
@@ -107,7 +107,7 @@ LangChain – Framework to build language model-powered agents and tools.
 📦 Folder Watched
 Google Drive Folder: Link
 
-Folder ID: 13Zf4OpYTGAnv642XKn3yN_fOxj_T1xTJ
+Folder ID: xxxxxxxxxxxxxxxxxxxxxxx
 
 ✅ Prerequisites
 Before activating this workflow, ensure the following:
